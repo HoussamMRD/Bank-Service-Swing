@@ -1,0 +1,4 @@
+ID			NOM			PRENOM			LOGIN			MOT DE PASS			CIN			EMAIL			TELEPHONE			SEXE			
+1			test	test		test		1234		G405121			test@gmail.com	0620209816		HOMME		NULL
+2			test1		test1		test1		1234		E006981			test1@gmail.com		0700789912		FEMME		
+3			test2		test2		test2		12345		P657001			test2@yahoo.fr		0690884521		HOMME		
